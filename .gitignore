@@ -1,0 +1,17 @@
+# Большие файлы данных
+*.csv
+data/*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Временные
+*.tmp
+.DS_Store
