@@ -26,7 +26,7 @@ A small community charity in Cornwall supporting low-income families needs to id
 ## Data Source
 
 **Dataset:** [360Giving GrantNav](https://grantnav.threesixtygiving.org/)  
-**Period:** 2022-2025
+**Period:** 2022-2025 
 **Scope:** UK charitable grant awards
 
 **Note:** Raw data file not included in repository due to size. Download from 360Giving and place in `data/` folder.
