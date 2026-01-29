@@ -9,11 +9,11 @@ A small community charity in Cornwall supporting low-income families needs to id
 **Challenge:** With limited resources and no dedicated fundraising staff, the charity must strategically focus on grant applications most likely to succeed.
 
 **Questions:**
-1. **Which focus areas attract most grant funding?**  
-   Should we emphasize poverty relief, community support, education, or another cause?
-
-2. **What grant amounts are realistic for community charities?**  
+1. **What grant amounts are realistic for community charities?**  
    What funding levels should we target to maximize chances of success?
+
+2. **Which focus areas attract most grant funding?**  
+   Should we emphasize poverty relief, community support, education, or another cause?
 
 3. **Who funds community charities: government or private funders?**  
    Where should we direct our application efforts?
