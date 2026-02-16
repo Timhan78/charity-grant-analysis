@@ -1,5 +1,9 @@
 # Grant Funding Analysis for Community Charities
 
+![Project Status](https://img.shields.io/badge/Status-Completed-success)
+![Tools](https://img.shields.io/badge/Tools-Python_|_pandas_|_Jupyter-blue)
+![Data Source](https://img.shields.io/badge/Data-360Giving_Open_Data-orange)
+
 ## Project Context
 A small community charity in Cornwall supporting low-income families needs to identify realistic funding opportunities for organizational development.
 
