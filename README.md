@@ -5,7 +5,8 @@
 ![Data Source](https://img.shields.io/badge/Data-360Giving_Open_Data-orange)
 
 ## Project Context
-A small community charity in Cornwall supporting low-income families needs to identify realistic funding opportunities for organizational development.
+
+Analysed 112,516 UK charity grants (filtered from 449,414) to answer a practical question: where should a small Cornwall charity focus its limited fundraising effort?
 
 ## Business Problem
 **Challenge:** With limited resources and no dedicated fundraising staff, the charity must strategically focus on grant applications most likely to succeed.
@@ -39,14 +40,14 @@ Based on keyword classification of 112,516 grants:
 - **Private funders provide 89% of all funding and 93% of all grants**
 - Grantmaking Organisations: £1,165M (63%)
 - Lottery Distributors: £486M (26%)
-- Central Government: £155M (8%) — fewer grants but higher average (£25,500)
+- Central Government: £155M (8%): fewer grants but higher average (£25,500)
 
 **Top 5 funders by total amount:**
-1. The National Lottery Community Fund — £386M
-2. Garfield Weston Foundation — £125M
-3. National Lottery Heritage Fund — £57M
-4. Lloyds Bank Foundation — £45M
-5. Sport England — £43M
+1. The National Lottery Community Fund: £386M
+2. Garfield Weston Foundation: £125M
+3. National Lottery Heritage Fund: £57M
+4. Lloyds Bank Foundation: £45M
+5. Sport England: £43M
 
 **Recommendation:** Start with National Lottery Community Fund, then move to specialised funders
 
@@ -90,15 +91,16 @@ Charity_Grant_Analysis/
 
 ## Technologies Used
 - Python 3.x
-- pandas — data manipulation and analysis
-- seaborn, matplotlib — data visualisation
-- Jupyter Notebook — interactive analysis
+- pandas: data manipulation and analysis
+- seaborn, matplotlib: data visualisation
+- Jupyter Notebook: interactive analysis
 
 ## Project Status
 ✅ **Completed** — Analysis finished, recommendations provided
 
 ## Author
-Data Analyst Apprentice (Corndel Level 4)
+Timur Siraziev  — Data Analyst Apprentice (Corndel Level 4)
+LinkedIn(https://www.linkedin.com/in/timursiraziev/)
 📍 Falmouth, UK
 
 ## License
