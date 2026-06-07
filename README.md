@@ -100,7 +100,7 @@ Charity_Grant_Analysis/
 
 ## Author
 Timur Siraziev  — Data Analyst Apprentice (Corndel Level 4)
-LinkedIn(https://www.linkedin.com/in/timursiraziev/)
+[LinkedIn](https://www.linkedin.com/in/timursiraziev/)
 📍 Falmouth, UK
 
 ## License
